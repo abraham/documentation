@@ -548,7 +548,7 @@ aliases: [
 ##### `configuration[urls][streaming]` {#streaming}
 
 **Description:** The Websockets URL for connecting to the streaming API.\
-**Type:** String (URL)\
+**Type:** {{<nullable>}} String (URL)\
 **Version history:**\
 4.0.0 - added
 
