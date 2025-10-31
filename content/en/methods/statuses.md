@@ -640,6 +640,10 @@ Authorization
 }
 ```
 
+```http
+Mastodon-Async-Refresh: id="<string>", retry=<int>, result_count=<int>
+```
+
 ##### 404: Not found
 
 Status is private or does not exist
