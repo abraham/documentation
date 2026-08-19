@@ -71,7 +71,7 @@ sensitive
 discoverable
 : Boolean. Whether this Collection should appear on the user's profile, in search results and other discovery mechanisms
 
-account_ids
+account_ids[]
 : Array of String. IDs of the accounts to feature in this Collection
 
 #### Response
